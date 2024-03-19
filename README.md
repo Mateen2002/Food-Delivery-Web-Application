@@ -102,9 +102,6 @@ Test Stripe payment gateway with these card details.
 See details: https://stripe.com/docs/testing
   
 
-## Contributing
-
-Contributions are always welcome!
 
 
 
