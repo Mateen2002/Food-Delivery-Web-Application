@@ -28,8 +28,8 @@ function SideBarMenu({ closeSideBar }) {
     <div className="relative h-full w-full sideBarMenu bg-white px-8 py-6  font-medium md:hidden">
       <div>
         <Image
-          src="/img/Zinger.svg"
-          alt="Zinger"
+          src="/img/Minger.svg"
+          alt="Minger"
           className="cursor-pointer"
           width={70}
           objectFit="contain"

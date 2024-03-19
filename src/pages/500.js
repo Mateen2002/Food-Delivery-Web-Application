@@ -6,7 +6,7 @@ export default function Custom500() {
   return (
     <>
       <Head>
-        <title>Zinger | Internal Server Error</title>
+        <title>Minger | Internal Server Error</title>
       </Head>
       <div className="heightFix flex items-center justify-center text-center">
         <div className="max-w-screen-xl mx-auto flex-col items-center justify-center">

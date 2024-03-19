@@ -8,7 +8,7 @@ function Profile() {
   return (
     <>
       <Head>
-        <title>Zinger | Profile</title>
+        <title>Minger | Profile</title>
       </Head>
       <div className="heightFix px-6">
         <div className="max-w-screen-xl mx-auto md:py-20 py-12 space-y-10 pb-20">

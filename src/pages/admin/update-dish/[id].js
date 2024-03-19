@@ -47,7 +47,7 @@ function UpdateDish(props) {
   return (
     <>
       <Head>
-        <title>Zinger | Update Dish</title>
+        <title>Minger | Update Dish</title>
       </Head>
       <div className="heightFixAdmin px-6 lg:py-20 sm:py-16 py-12">
         <div className="mx-auto max-w-screen-sm sm:text-base  text-sm">

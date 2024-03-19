@@ -32,50 +32,8 @@ function Footer({ admin }) {
               <></>
             )}
           </div>
-          <div className="flex items-center space-x-4 md:space-x-6">
-            <div className="md:w-6 w-5  my-auto">
-              <Image
-                width={25}
-                height={25}
-                src="/img/social/email.svg"
-                objectFit="contain"
-                className="cursor-pointer"
-                alt="email"
-                onClick={gmailHandler}
-              />
-            </div>
-            <div className="md:w-6 w-5  my-auto">
-              <Image
-                width={25}
-                height={25}
-                src="/img/social/linkedin.svg"
-                objectFit="contain"
-                className="cursor-pointer"
-                alt="linkedin"
-                onClick={() => {
-                  router.push("https://www.linkedin.com/in/piyush-sati");
-                }}
-              />
-            </div>
-            <div className="md:w-6 w-5 my-auto">
-              <Image
-                width={25}
-                height={25}
-                src="/img/social/github.svg"
-                objectFit="contain"
-                className="cursor-pointer"
-                alt="github"
-                onClick={() => router.push("https://github.com/Pinqua")}
-              />
-            </div>
-          </div>
         </div>
-        <p className="mt-6 text-gray-200 text-center flex items-center flex-wrap justify-center">
-          Made with <HeartIcon className="w-5 mx-2 text-red-500" /> by
-          <span className="text-white hover:underline ml-2">
-            <Link href="https://itspiyushsati.vercel.app">Piyush Sati</Link>
-          </span>
-        </p>
+
       </div>
     </div>
   );

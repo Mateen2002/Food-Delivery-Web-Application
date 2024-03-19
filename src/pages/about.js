@@ -7,7 +7,7 @@ function About() {
   return (
     <>
       <Head>
-        <title>Zinger | About</title>
+        <title>Minger | About</title>
       </Head>
       <div className="heightFix px-6">
         <div className="max-w-screen-xl mx-auto md:py-20 py-12 pb-20">
@@ -28,7 +28,7 @@ function About() {
               <div className="flex-grow ml-auto ">
                 <Fade bottom>
                   <p>
-                    This is a food ordering website for Zinger restaurant built
+                    This is a food ordering website for Minger restaurant built
                     using
                     <span className="link text-primary-light underline mx-1">
                       <Link href="https://nextjs.org/"> Next.js,</Link>
@@ -44,8 +44,8 @@ function About() {
                     </span>
                     by
                     <span className="font-semibold text-primary-light underline mx-1">
-                      <Link href="https://itspiyushsati.vercel.app">
-                        Piyush Sati
+                      <Link href="https://mateen.live">
+                        Mohammed Mateen Hussain Syed
                       </Link>
                     </span>
                     to enhance and showcase his development skills.
@@ -53,7 +53,7 @@ function About() {
                   <p className="mt-2">
                     If you wanna get in touch email
                     <span className="link text-primary-light mx-1">
-                      piyushsati311999@gmail.com
+                      contact@mateen.live
                     </span>
                   </p>
                 </Fade>

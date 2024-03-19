@@ -12,7 +12,7 @@ function Users() {
   return (
     <>
       <Head>
-        <title>Zinger | Users</title>
+        <title>Minger | Users</title>
       </Head>
       <div className="heightFixAdmin bg-gray-100 py-10 md:px-6">
         <div className="max-w-screen-xl mx-auto bg-white  shadow rounded-md my-6">

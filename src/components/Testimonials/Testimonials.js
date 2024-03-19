@@ -9,8 +9,8 @@ function Testimonials() {
           <div className="sm:max-w-xs">
           <div className="font-extrabold text-6xl -mb-8">"</div>
             <p>
-              "Zinger is just awesome! I just launched a startup which leaves me
-              with no time for cooking, so Zinger is a life-saver. Now that I
+              "Minger is just awesome! I just launched a startup which leaves me
+              with no time for cooking, so Minger is a life-saver. Now that I
               got used to it, I couldn't live without my daily meals!
             </p>
             <div className="flex items-center sm:mt-8 mt-4 gap-2">
@@ -33,7 +33,7 @@ function Testimonials() {
             <p>
               "Inexpensive, healthy and great-tasting meals, delivered right to
               my home. We have lots of food delivery here in Lisbon, but no one
-              comes even close to Zinger. Me and my family are so in love!
+              comes even close to Minger. Me and my family are so in love!
             </p>
             <div className="flex items-center sm:mt-8 mt-4 gap-2">
               <div>

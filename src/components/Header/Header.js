@@ -20,8 +20,8 @@ function Header() {
       <div className="flex items-center w-full max-w-screen-xl py-2 xl:space-x-16 lg:space-x-12  space-x-7  mx-auto">
         <div className="flex items-center flex-1">
           <Image
-            src="/img/Zinger.svg"
-            alt="Zinger"
+            src="/img/Minger.svg"
+            alt="Minger"
             className="cursor-pointer"
             width={100}
             objectFit="contain"

@@ -45,7 +45,7 @@ function Dishes(props) {
   return (
     <>
       <Head>
-        <title>Zinger | Dishes</title>
+        <title>Minger | Dishes</title>
       </Head>
       <div className="heightFixAdmin px-6 lg:py-20 sm:py-16 py-12">
         <div className="mx-auto max-w-screen-xl">

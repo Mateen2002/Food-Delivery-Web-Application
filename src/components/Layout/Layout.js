@@ -31,10 +31,10 @@ function Layout({ children, admin, auth }) {
                     name="viewport"
                     content="width=device-width,initial-scale=1.0,minimum-scale=1.0"
                 />
-                <title>Zinger</title>
+                <title>Minger</title>
                 <meta
                     name="description"
-                    content="Food ordering website for Zinger restaurant build with 💗 🔥 by Piyush Sati"
+                    content="Food ordering website for Minger restaurant build with Mohammed Mateen Hussain Syed"
                 />
                 <link
                     rel="apple-touch-icon"

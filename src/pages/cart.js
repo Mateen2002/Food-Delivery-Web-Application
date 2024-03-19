@@ -46,7 +46,7 @@ function Cart() {
   return (
     <>
       <Head>
-        <title>Zinger | Cart</title>
+        <title>Minger | Cart</title>
       </Head>
       <div className="bg-gray-100 py-10 md:px-6 heightFix">
         <main className="max-w-screen-xl mx-auto">
